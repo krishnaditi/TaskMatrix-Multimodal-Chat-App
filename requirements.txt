@@ -1,0 +1,8 @@
+langchain
+chainlit
+xai-grok
+torch>=2.0.0
+transformers
+diffusers
+python-dotenv
+pillow
